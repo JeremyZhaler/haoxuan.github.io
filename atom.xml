@@ -38,6 +38,29 @@
   </entry>
   
   <entry>
+    <title>Wechat Subscription Account Scraping</title>
+    <link href="https://github.com/JeremyZhaler/haoxuan.github.io/2018/01/10/wechat-public-account-scraping/"/>
+    <id>https://github.com/JeremyZhaler/haoxuan.github.io/2018/01/10/wechat-public-account-scraping/</id>
+    <published>2018-01-09T22:48:35.000Z</published>
+    <updated>2018-07-18T00:00:05.535Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Wechat-is-a-most-popular-social-application-in-China-The-data-from-subscription-accounts-based-on-Wechat-is-very-valuable-for-the-accounts-runner-and-advertisement-owner-The-data-we-will-scrap-including-attributes-Artical-Title-Artical-Content-Artical-Views-Artical-Times-At-the-end-I-will-store-them-into-MangoDB-The-language-I-uesed-is-Python-and-Node-js"><a href="#Wechat-is-a-most-popular-social-application-in-China-The-data-from-subscription-accounts-based-on-Wechat-is-very-valuable-for-the-accounts-runner-and-advertisement-owner-The-data-we-will-scrap-including-attributes-Artical-Title-Artical-Content-Artical-Views-Artical-Times-At-the-end-I-will-store-them-into-MangoDB-The-language-I-uesed-is-Python-and-Node-js" class="headerlink" title="Wechat is a most popular social application in China. The data from subscription accounts based on Wechat is very valuable for the accounts runner and advertisement owner. The data we will scrap including attributes: Artical_Title, Artical_Content, Artical_Views, Artical Times. At the end, I will store them into MangoDB. The language I uesed is Python and Node.js."></a>Wechat is a most popular social application in China. The data from subscription accounts based on Wechat is very valuable for the accounts runner and advertisement owner. The data we will scrap including attributes: Artical_Title, Artical_Content, Artical_Views, Artical Times. At the end, I will store them into MangoDB. The language I uesed is Python and Node.js.</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Wechat-is-a-most-popular-social-application-in-China-The-data-from-subscription-accounts-based-on-Wechat-is-very-valuable-for-the-ac
+      
+    
+    </summary>
+    
+    
+      <category term="Data scraping" scheme="https://github.com/JeremyZhaler/haoxuan.github.io/tags/Data-scraping/"/>
+    
+  </entry>
+  
+  <entry>
     <title>hello world</title>
     <link href="https://github.com/JeremyZhaler/haoxuan.github.io/2017/07/17/test/"/>
     <id>https://github.com/JeremyZhaler/haoxuan.github.io/2017/07/17/test/</id>
